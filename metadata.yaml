@@ -1,0 +1,32 @@
+_repo: Les-myst-res-du-peuple-tome-IHistoire-d-une-famille-de-prol-taires---travers-les--ges_27843
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Eugene
+    - Sue, Marie Joseph
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27843'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Fiction'
+title: "Les mystères du peuple, tome I\r\nHistoire d'une famille de prolétaires à\
+  \ travers les âges"
+url: http://www.gutenberg.org/ebooks/27843
